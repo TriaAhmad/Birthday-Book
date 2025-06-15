@@ -4,7 +4,7 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Hapoy Birthday My Love",
+  title: "Happy Birthday My Love",
   description: "FOR MY BIRTHDAY GIRL SASA <3",
 };
 
