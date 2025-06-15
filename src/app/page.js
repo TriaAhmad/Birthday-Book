@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
-import FlipBook from "@/components/Flipbook";
+import FlipBook from "../components/Flipbook";
 
 export default function HomePage() {
   const audioRef = useRef(null);
